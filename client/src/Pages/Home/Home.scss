@@ -1,0 +1,13 @@
+.main{
+    width: 100%;
+    padding: 3% 24%;
+
+    &__banner {
+        background-image: url('../../images/roles.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+        border-radius: 10px;
+        height: 10rem;
+        box-shadow: 0 3px 20px rgb(255 255 255/ 0.6);
+    }
+}
