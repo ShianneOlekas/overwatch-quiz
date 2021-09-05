@@ -1,6 +1,5 @@
 import { Component } from 'react';
 import QuizCard from '../../components/QuizCard/QuizCard';
-import QuizCardAnswers from '../../components/QuizCardAnswers/QuizCardAnswers';
 import axios from 'axios';
 
 
@@ -27,7 +26,6 @@ class Question extends Component {
         return (
             <div>
                 <QuizCard questions={this.state.questions}/>
-                <QuizCardAnswers questions={this.state.questions}/>
             </div>
         );
     }

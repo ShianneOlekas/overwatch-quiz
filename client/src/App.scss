@@ -9,9 +9,10 @@ body {
 
 .App {
     background-image: url('./images/background.jpg');
+    background-attachment: fixed;
     opacity: 0.7;
     background-size: cover;
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     border: 0.5rem solid rgba(96, 96, 96, 0.5);
 }

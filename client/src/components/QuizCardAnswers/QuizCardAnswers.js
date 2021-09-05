@@ -1,10 +1,10 @@
-function QuizCardAnswers({questions}) {
+function QuizCardAnswers({answers}) {
 
-    const answersRendered = questions.answers?.map((answer) => (
+    const answersRendered = answers?.map((answer) => (
         <p>{answer.answer}</p>
     ))
 
-    console.log(answersRendered);
+    console.log(answers);
       
     return (
         <section>
