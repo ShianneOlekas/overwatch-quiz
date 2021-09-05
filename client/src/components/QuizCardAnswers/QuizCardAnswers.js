@@ -1,15 +1,17 @@
 function QuizCardAnswers({answers}) {
 
     const answersRendered = answers?.map((answer) => (
-        <p>{answer.answer}</p>
+        <label>
+            <input type='radio' name='answer'/> {answer.answer}
+        </label>
     ))
 
     console.log(answers);
       
     return (
-        <section>
+        <button>
             {answersRendered}
-        </section>
+        </button>
     )
 }
 
