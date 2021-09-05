@@ -12,15 +12,11 @@ function App() {
         <Header />
 
         <Switch>
-          <Route path='/' exact>
-            <Home />
-          </Route>
-          <Route path='/quiz'>
-            <Quiz />
-          </Route>
-          <Route path='/result'>
-            <Result />
-          </Route>
+          <Route path='/' exact component={Home} />
+          <Route path='/quiz' component={Quiz} />
+          <Route path='/quiz/:id' component={Quiz} />
+          <Route path='/result' component={Result} />
+   
         </Switch>
 
       </BrowserRouter>

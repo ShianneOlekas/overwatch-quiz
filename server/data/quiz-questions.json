@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "question": "I tend to approach my problems...",
+    "answers": [
+      {
+        "answer": "head on.",
+        "value": "1"
+      },
+      {
+        "answer": "with careful consideration.",
+        "value": "2"
+      },
+      {
+        "answer": "by helping others solve theirs.",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "question": "In the heat of a battle, I know I can lean on...",
+    "answers": [
+      {
+        "answer": "my defenses.",
+        "value": "1"
+      },
+      {
+        "answer": "my fighting abilities.",
+        "value": "2"
+
+      },
+      {
+        "answer": "my teammates.",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "question": "After a loss, I tend to...",
+    "answers": [
+      {
+        "answer": "become motivated to work harder.",
+        "value": "1"
+      },
+      {
+        "answer": "analyze and rework my strategy.",
+        "value": "2"
+
+      },
+      {
+        "answer": "encourage my teammates.",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "question": "When working on a team, I tend to...",
+    "answers": [
+      {
+        "answer": "take on a project manager role, ensuring everything is finished on time and tying up loose ends.",
+        "value": "1"
+      },
+      {
+        "answer": "get my portion of the work done as quickly as possible, then see what is left to be done.",
+        "value": "2"
+
+      },
+      {
+        "answer": "be the person people come to for help and advice.",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "question": "When playing video games, I prioritize...",
+    "answers": [
+      {
+        "answer": "having fun. Win or lose, it's just a game!",
+        "value": "1"
+      },
+      {
+        "answer": "winning. I have a competitive spirit!",
+        "value": "2"
+
+      },
+      {
+        "answer": "teamwork. No matter the outcome, at least we worked together!",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "question": "Pick a voice line:",
+    "answers": [
+      {
+        "answer": "Cease your resistance!",
+        "value": "1"
+      },
+      {
+        "answer": "I've got you in my sights!",
+        "value": "2"
+      },
+      {
+        "answer": "Heroes never die!",
+        "value": "3"
+      },
+      {
+        "answer": "Nerf This!",
+        "value": "1"
+      },
+      {
+        "answer": "Justice rains from above!",
+        "value": "2"
+      },
+      {
+        "answer": "Rally to me!",
+        "value": "3"
+      }
+    ]
+  },
+    {
+    "id": "7",
+    "question": "My ideal ultimate ability...",
+    "answers": [
+      {
+        "answer": "increases team defenses.",
+        "value": "1"
+      },
+      {
+        "answer": "has insane damage output.",
+        "value": "2"
+      },
+      {
+        "answer": "heals and boosts the whole team.",
+        "value": "3"
+      }
+    ]
+  },
+    {
+    "id": "8",
+    "question": "You should have picked...",
+    "answers": [
+      {
+        "answer": "Mercy.",
+        "value": "1"
+      },
+      {
+        "answer": "I'm not gonna be Mercy.",
+        "value": "2"
+      },
+      {
+        "answer": "any kind of support.",
+        "value": "3"
+      }
+    ]
+  }
+]
