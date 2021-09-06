@@ -4,14 +4,17 @@
     "question": "I tend to approach my problems...",
     "answers": [
       {
+        "id": "11",
         "answer": "head on.",
         "value": "1"
       },
       {
+        "id": "12",
         "answer": "with careful consideration.",
         "value": "2"
       },
       {
+        "id": "13",
         "answer": "by helping others solve theirs.",
         "value": "3"
       }
@@ -22,15 +25,18 @@
     "question": "In the heat of a battle, I know I can lean on...",
     "answers": [
       {
+        "id": "21",
         "answer": "my defenses.",
         "value": "1"
       },
       {
+        "id": "22",
         "answer": "my fighting abilities.",
         "value": "2"
 
       },
       {
+        "id": "23",
         "answer": "my teammates.",
         "value": "3"
       }
@@ -41,15 +47,18 @@
     "question": "After a loss, I tend to...",
     "answers": [
       {
+        "id": "31",
         "answer": "become motivated to work harder.",
         "value": "1"
       },
       {
+        "id": "32",
         "answer": "analyze and rework my strategy.",
         "value": "2"
 
       },
       {
+        "id": "33",
         "answer": "encourage my teammates.",
         "value": "3"
       }
@@ -60,15 +69,18 @@
     "question": "When working on a team, I tend to...",
     "answers": [
       {
+        "id": "41",
         "answer": "take on a project manager role, ensuring everything is finished on time and tying up loose ends.",
         "value": "1"
       },
       {
+        "id": "42",
         "answer": "get my portion of the work done as quickly as possible, then see what is left to be done.",
         "value": "2"
 
       },
       {
+        "id": "43",
         "answer": "be the person people come to for help and advice.",
         "value": "3"
       }
@@ -79,15 +91,17 @@
     "question": "When playing video games, I prioritize...",
     "answers": [
       {
+        "id": "51",
         "answer": "having fun. Win or lose, it's just a game!",
         "value": "1"
       },
       {
+        "id": "52",
         "answer": "winning. I have a competitive spirit!",
         "value": "2"
-
       },
       {
+        "id": "53",
         "answer": "teamwork. No matter the outcome, at least we worked together!",
         "value": "3"
       }
@@ -98,26 +112,32 @@
     "question": "Pick a voice line:",
     "answers": [
       {
+        "id": "61",
         "answer": "Cease your resistance!",
         "value": "1"
       },
       {
+        "id": "62",
         "answer": "I've got you in my sights!",
         "value": "2"
       },
       {
+        "id": "63",
         "answer": "Heroes never die!",
         "value": "3"
       },
       {
+        "id": "64",
         "answer": "Nerf This!",
         "value": "1"
       },
       {
+        "id": "65",
         "answer": "Justice rains from above!",
         "value": "2"
       },
       {
+        "id": "66",
         "answer": "Rally to me!",
         "value": "3"
       }
@@ -128,14 +148,17 @@
     "question": "My ideal ultimate ability...",
     "answers": [
       {
+        "id": "71",
         "answer": "increases team defenses.",
         "value": "1"
       },
       {
+        "id": "72",
         "answer": "has insane damage output.",
         "value": "2"
       },
       {
+        "id": "73",
         "answer": "heals and boosts the whole team.",
         "value": "3"
       }
@@ -146,14 +169,17 @@
     "question": "You should have picked...",
     "answers": [
       {
+        "id": "81",
         "answer": "Mercy.",
         "value": "1"
       },
       {
+        "id": "82",
         "answer": "I'm not gonna be Mercy.",
         "value": "2"
       },
       {
+        "id": "83",
         "answer": "any kind of support.",
         "value": "3"
       }

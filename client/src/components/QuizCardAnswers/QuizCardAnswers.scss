@@ -1,0 +1,18 @@
+.answer {
+    &__ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    &__li {
+        justify-content: center;
+        list-style: none;
+        border: 1px solid #000000;
+        padding: 1rem;
+        margin: .5rem;
+        width: 30rem;
+    }
+}
+
+label {
+}
