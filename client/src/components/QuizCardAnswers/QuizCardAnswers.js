@@ -18,6 +18,7 @@ function QuizCardAnswers({ answers }) {
         <ul className="answer__ul">
             {answersRendered}
         </ul>
+
     )
 }
 
