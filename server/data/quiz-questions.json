@@ -7,19 +7,19 @@
         "id": "11",
         "answer": "head on.",
         "value": "1",
-        "id": "10"
+        "qid": "10"
       },
       {
         "id": "12",
         "answer": "with careful consideration.",
         "value": "2",
-        "id": "10"
+        "qid": "10"
       },
       {
         "id": "13",
         "answer": "by helping others solve theirs.",
         "value": "3",
-        "id": "10"
+        "qid": "10"
       }
     ]
   },
@@ -31,20 +31,20 @@
         "id": "21",
         "answer": "my defenses.",
         "value": "1",
-        "id": "11"
+        "qid": "11"
       },
       {
         "id": "22",
         "answer": "my fighting abilities.",
         "value": "2",
-        "id": "11"
+        "qid": "11"
 
       },
       {
         "id": "23",
         "answer": "my teammates.",
         "value": "3",
-        "id": "11"
+        "qid": "11"
       }
     ]
   },
@@ -56,20 +56,20 @@
         "id": "31",
         "answer": "become motivated to work harder.",
         "value": "1",
-        "id": "12"
+        "qid": "12"
       },
       {
         "id": "32",
         "answer": "analyze and rework my strategy.",
         "value": "2",
-        "id": "12"
+        "qid": "12"
 
       },
       {
         "id": "33",
         "answer": "encourage my teammates.",
         "value": "3",
-        "id": "12"
+        "qid": "12"
       }
     ]
   },
@@ -81,20 +81,20 @@
         "id": "41",
         "answer": "take on a project manager role, ensuring everything is finished on time and tying up loose ends.",
         "value": "1",
-        "id": "13"
+        "qid": "13"
       },
       {
         "id": "42",
         "answer": "get my portion of the work done as quickly as possible, then see what is left to be done.",
         "value": "2",
-        "id": "13"
+        "qid": "13"
 
       },
       {
         "id": "43",
         "answer": "be the person people come to for help and advice.",
         "value": "3",
-        "id": "13"
+        "qid": "13"
       }
     ]
   },
@@ -106,20 +106,20 @@
         "id": "51",
         "answer": "having fun. Win or lose, it's just a game!",
         "value": "1",
-        "id": "14"
+        "qid": "14"
       },
       {
         "id": "52",
         "answer": "winning. I have a competitive spirit!",
 
         "value": "2",
-        "id": "14"
+        "qid": "14"
       },
       {
         "id": "53",
         "answer": "teamwork. No matter the outcome, at least we worked together!",
         "value": "3",
-        "id": "14"
+        "qid": "14"
       }
     ]
   },
@@ -131,37 +131,37 @@
         "id": "61",
         "answer": "Cease your resistance!",
         "value": "1",
-        "id": "15"
+        "qid": "15"
       },
       {
         "id": "62",
         "answer": "I've got you in my sights!",
         "value": "2",
-        "id": "15"
+        "qid": "15"
       },
       {
         "id": "63",
         "answer": "Heroes never die!",
         "value": "3",
-        "id": "15"
+        "qid": "15"
       },
       {
         "id": "64",
         "answer": "Nerf This!",
         "value": "1",
-        "id": "15"
+        "qid": "15"
       },
       {
         "id": "65",
         "answer": "Justice rains from above!",
         "value": "2",
-        "id": "15"
+        "qid": "15"
       },
       {
         "id": "66",
         "answer": "Rally to me!",
         "value": "3",
-        "id": "15"
+        "qid": "15"
       }
     ]
   },
@@ -173,19 +173,19 @@
         "id": "71",
         "answer": "increases team defenses.",
         "value": "1",
-        "id": "16"
+        "qid": "16"
       },
       {
         "id": "72",
         "answer": "has insane damage output.",
         "value": "2",
-        "id": "16"
+        "qid": "16"
       },
       {
         "id": "73",
         "answer": "heals and boosts the whole team.",
         "value": "3",
-        "id": "16"
+        "qid": "16"
       }
     ]
   },
@@ -197,19 +197,19 @@
         "id": "81",
         "answer": "Mercy.",
         "value": "1",
-        "id": "17"
+        "qid": "17"
       },
       {
         "id": "82",
         "answer": "I'm not gonna be Mercy.",
         "value": "2",
-        "id": "17"
+        "qid": "17"
       },
       {
         "id": "83",
         "answer": "any kind of support.",
         "value": "3",
-        "id": "17"
+        "qid": "17"
       }
     ]
   }
