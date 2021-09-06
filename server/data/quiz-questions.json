@@ -5,15 +5,18 @@
     "answers": [
       {
         "answer": "head on.",
-        "value": "1"
+        "value": "1",
+        "id": "10"
       },
       {
         "answer": "with careful consideration.",
-        "value": "2"
+        "value": "2",
+        "id": "10"
       },
       {
         "answer": "by helping others solve theirs.",
-        "value": "3"
+        "value": "3",
+        "id": "10"
       }
     ]
   },
@@ -23,16 +26,19 @@
     "answers": [
       {
         "answer": "my defenses.",
-        "value": "1"
+        "value": "1",
+        "id": "11"
       },
       {
         "answer": "my fighting abilities.",
-        "value": "2"
+        "value": "2",
+        "id": "11"
 
       },
       {
         "answer": "my teammates.",
-        "value": "3"
+        "value": "3",
+        "id": "11"
       }
     ]
   },
@@ -42,16 +48,19 @@
     "answers": [
       {
         "answer": "become motivated to work harder.",
-        "value": "1"
+        "value": "1",
+        "id": "12"
       },
       {
         "answer": "analyze and rework my strategy.",
-        "value": "2"
+        "value": "2",
+        "id": "12"
 
       },
       {
         "answer": "encourage my teammates.",
-        "value": "3"
+        "value": "3",
+        "id": "12"
       }
     ]
   },
@@ -61,16 +70,19 @@
     "answers": [
       {
         "answer": "take on a project manager role, ensuring everything is finished on time and tying up loose ends.",
-        "value": "1"
+        "value": "1",
+        "id": "13"
       },
       {
         "answer": "get my portion of the work done as quickly as possible, then see what is left to be done.",
-        "value": "2"
+        "value": "2",
+        "id": "13"
 
       },
       {
         "answer": "be the person people come to for help and advice.",
-        "value": "3"
+        "value": "3",
+        "id": "13"
       }
     ]
   },
@@ -80,16 +92,19 @@
     "answers": [
       {
         "answer": "having fun. Win or lose, it's just a game!",
-        "value": "1"
+        "value": "1",
+        "id": "14"
       },
       {
         "answer": "winning. I have a competitive spirit!",
-        "value": "2"
+        "value": "2",
+        "id": "14"
 
       },
       {
         "answer": "teamwork. No matter the outcome, at least we worked together!",
-        "value": "3"
+        "value": "3",
+        "id": "14"
       }
     ]
   },
@@ -99,27 +114,33 @@
     "answers": [
       {
         "answer": "Cease your resistance!",
-        "value": "1"
+        "value": "1",
+        "id": "15"
       },
       {
         "answer": "I've got you in my sights!",
-        "value": "2"
+        "value": "2",
+        "id": "15"
       },
       {
         "answer": "Heroes never die!",
-        "value": "3"
+        "value": "3",
+        "id": "15"
       },
       {
         "answer": "Nerf This!",
-        "value": "1"
+        "value": "1",
+        "id": "15"
       },
       {
         "answer": "Justice rains from above!",
-        "value": "2"
+        "value": "2",
+        "id": "15"
       },
       {
         "answer": "Rally to me!",
-        "value": "3"
+        "value": "3",
+        "id": "15"
       }
     ]
   },
@@ -129,15 +150,18 @@
     "answers": [
       {
         "answer": "increases team defenses.",
-        "value": "1"
+        "value": "1",
+        "id": "16"
       },
       {
         "answer": "has insane damage output.",
-        "value": "2"
+        "value": "2",
+        "id": "16"
       },
       {
         "answer": "heals and boosts the whole team.",
-        "value": "3"
+        "value": "3",
+        "id": "16"
       }
     ]
   },
@@ -147,15 +171,18 @@
     "answers": [
       {
         "answer": "Mercy.",
-        "value": "1"
+        "value": "1",
+        "id": "17"
       },
       {
         "answer": "I'm not gonna be Mercy.",
-        "value": "2"
+        "value": "2",
+        "id": "17"
       },
       {
         "answer": "any kind of support.",
-        "value": "3"
+        "value": "3",
+        "id": "17"
       }
     ]
   }
