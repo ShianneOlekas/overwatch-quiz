@@ -19,6 +19,8 @@ class Result extends Component {
                 }
             })
       }
+      
+      // 8-15 Tank 16-23 DPS 24+ Support
         
     render() {
 

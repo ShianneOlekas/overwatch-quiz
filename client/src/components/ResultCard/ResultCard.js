@@ -10,13 +10,37 @@ export default function ResultCard({ results }) {
             <p className="result__p">{result.result}</p>
         </div>
     ))
+
+    const startOver = (e) => {
+        e.preventDefault()
+        window.location.href ='/'; 
+        }
+
+    const handleOnSubmit = e => {
+        e.preventDefault();
+
+        ('.result').removeClass('hide');
+        ('.result').addClass('show');
+        
+        // if (total >= 8 && total <= 13) {
+
+        // } else if (total >= 14 && total <= 19) {
+
+        // } else {
+
+        // }
+
+    };
+
+
+ 
     
     return (
         <>
             <section className="result">
                 {resultsRendered}
+                <button className="btn" onClick={startOver}>Start Over</button>
             </section>
-
         </>
     )
 }
