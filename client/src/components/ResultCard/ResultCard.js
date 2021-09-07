@@ -11,7 +11,10 @@ export default function ResultCard({ results }) {
         </div>
     ))
 
-
+    const startOver = (e) => {
+        e.preventDefault()
+        window.location.href ='/'; 
+        }
 
     const handleOnSubmit = e => {
         e.preventDefault();
@@ -36,7 +39,7 @@ export default function ResultCard({ results }) {
         <>
             <section className="result">
                 {resultsRendered}
-            <button className="btn">Start Over</button>
+                <button className="btn" onClick={startOver}>Start Over</button>
             </section>
         </>
     )
