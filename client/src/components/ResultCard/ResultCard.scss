@@ -1,0 +1,14 @@
+.result {
+    background-color: rgba($color: #a5bbe4, $alpha: 0.7);
+    text-align: center;
+    border-radius: 2rem;
+    padding: 2rem;
+    margin: 5rem 20vw;
+    &__img {
+        width: 100%;
+        border-radius: 1rem;
+
+        box-shadow: 2px 9px 15px 0px rgba(53,53,53,0.8);
+
+    }
+}

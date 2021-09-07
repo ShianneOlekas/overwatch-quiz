@@ -4,12 +4,13 @@ import './QuizCardAnswers.scss';
 function QuizCardAnswers({ answers }) {
 
     const answersRendered = answers?.map((answer) => (
-        <li className="answer__li">
-            <label for={answer.id}>
-                <input type='radio' name='answer' id={answer.id}/>
-                {answer.answer}
+        <div className="answer__li">
+            <input className="answer__input" type='radio' name={answer.qid} id={answer.id} />
+            <label className="answer__label" for={answer.id}>
+            
+            {answer.answer}
             </label>
-        </li>
+        </div>
     ))
 
     console.log(answers);
