@@ -10,12 +10,16 @@ function QuizCard({questions}) {
         </div>
     ))
     
+    const getResults = (e) => {
+        e.preventDefault()
+        window.location.href ='/result'; 
+        }
       
     return (
         <>
             <section className="question">
                 {questionsRendered}
-            <button className="submit btn">submit</button>
+            <button className="submit btn" onClick={getResults}>submit</button>
             </section>
 
         </>
