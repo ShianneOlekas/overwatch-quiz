@@ -1,0 +1,20 @@
+[
+      {
+        "id": "100",
+        "result": "A good tank can be the pillar that holds the team together, inspiring others to work with each other, and protecting those in need, often sacrificing themselves for the good of the team.",
+        "role": "tank",
+        "image": "http://localhost:8080/images/tankres.png"
+      },
+      {
+        "id": "200",
+        "result": "Knocking down enemy shields, picking off weak targets and turning the tide of the game with your ultimate ability, you'll always be in the center of the action as DPS.",
+        "role": "DPS",
+        "image": "http://localhost:8080/images/dmgres.png"
+      },
+      {
+        "id": "300",
+        "result": "Attentive and observant, a good support is the backbone of their team. Boost your teams defenses and their spirits with healing abilities, damage boosts and quick thinking!",
+        "role": "support",
+        "image": "http://localhost:8080/images/supportres.png"
+      }
+    ]
